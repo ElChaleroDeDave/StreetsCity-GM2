@@ -1,16 +1,15 @@
 {
-  "name": "Obj_Player",
   "spriteId": {
     "name": "Spr_BatManIddle",
     "path": "sprites/Spr_BatManIddle/Spr_BatManIddle.yy",
   },
-  "spriteMaskId": null,
+  "solid": false,
   "visible": true,
-  "solid": true,
-  "persistent": false,
-  "physicsObject": true,
   "managed": true,
+  "spriteMaskId": null,
+  "persistent": false,
   "parentObjectId": null,
+  "physicsObject": true,
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
@@ -39,6 +38,7 @@
     "path": "folders/Objetos.yy",
   },
   "resourceVersion": "1.0",
+  "name": "Obj_Player",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -1,4 +1,4 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 
-spd =1;
+spd =3;

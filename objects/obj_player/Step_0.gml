@@ -31,3 +31,5 @@ sprite_index = Spr_BatManRunning
 
 
 }
+ 
+depth = -y
