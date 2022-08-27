@@ -1,5 +1,4 @@
 {
-  "name": "Tile_Set_City",
   "spriteId": {
     "name": "Spr_tile_city",
     "path": "sprites/Spr_tile_city/Spr_tile_city.yy",
@@ -10,13 +9,13 @@
   "tileyoff": 0,
   "tilehsep": 0,
   "tilevsep": 0,
-  "out_tilehborder": 2,
-  "out_tilevborder": 2,
   "spriteNoExport": true,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
   },
+  "out_tilehborder": 2,
+  "out_tilevborder": 2,
   "out_columns": 64,
   "tile_count": 4096,
   "autoTileSets": [],
@@ -4129,10 +4128,11 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Platzi",
-    "path": "Platzi.yyp",
+    "name": "Conjuntos de casillas",
+    "path": "folders/Conjuntos de casillas.yy",
   },
   "resourceVersion": "1.0",
+  "name": "Tile_Set_City",
   "tags": [],
   "resourceType": "GMTileSet",
 }
