@@ -28,8 +28,10 @@ else if(keyboard_check(vk_down)){
 
 y = y + spd;
 sprite_index = Spr_BatManRunning
-
-
+}else{
+	sprite_index = Spr_BatManIddle;
 }
  
 depth = -y
+
+

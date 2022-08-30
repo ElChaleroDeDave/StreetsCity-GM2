@@ -1,8 +1,5 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
+draw_text(10,10,string(hp))
 
-spd =3;
-hp = 100;
-if(room == Sala1){
-audio_play_sound(Bgm_Lights_out,0,true);
-}
+

@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":3,},
+    {"id":{"name":"Obj_EndingSensor","path":"objects/Obj_EndingSensor/Obj_EndingSensor.yy",},"order":5,},
     {"id":{"name":"Spr_BatManIddle","path":"sprites/Spr_BatManIddle/Spr_BatManIddle.yy",},"order":1,},
     {"id":{"name":"Tile_Set_City","path":"tilesets/Tile_Set_City/Tile_Set_City.yy",},"order":0,},
     {"id":{"name":"Sala2","path":"rooms/Sala2/Sala2.yy",},"order":1,},
@@ -8,10 +9,16 @@
     {"id":{"name":"Spr_tile_city","path":"sprites/Spr_tile_city/Spr_tile_city.yy",},"order":2,},
     {"id":{"name":"Spr_BatManRunning","path":"sprites/Spr_BatManRunning/Spr_BatManRunning.yy",},"order":0,},
     {"id":{"name":"Obj_Wall","path":"objects/Obj_Wall/Obj_Wall.yy",},"order":1,},
+    {"id":{"name":"obj_GameOver","path":"objects/obj_GameOver/obj_GameOver.yy",},"order":4,},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
+    {"id":{"name":"Bgm_Lights_out","path":"sounds/Bgm_Lights_out/Bgm_Lights_out.yy",},"order":0,},
     {"id":{"name":"Obj_Goto","path":"objects/Obj_Goto/Obj_Goto.yy",},"order":3,},
     {"id":{"name":"Spr_Goto","path":"sprites/Spr_Goto/Spr_Goto.yy",},"order":4,},
-    {"id":{"name":"Ob_Wazard","path":"objects/Ob_Wazard/Ob_Wazard.yy",},"order":2,},
+    {"id":{"name":"Ending","path":"rooms/Ending/Ending.yy",},"order":3,},
+    {"id":{"name":"Obj_Ending","path":"objects/Obj_Ending/Obj_Ending.yy",},"order":6,},
+    {"id":{"name":"RoomGameOver","path":"rooms/RoomGameOver/RoomGameOver.yy",},"order":2,},
+    {"id":{"name":"Obj_Hazard","path":"objects/Obj_Hazard/Obj_Hazard.yy",},"order":2,},
+    {"id":{"name":"Sfx_ugh","path":"sounds/Sfx_ugh/Sfx_ugh.yy",},"order":1,},
     {"id":{"name":"Sala1","path":"rooms/Sala1/Sala1.yy",},"order":0,},
   ],
   "Options": [
@@ -28,6 +35,8 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Sala1","path":"rooms/Sala1/Sala1.yy",},},
     {"roomId":{"name":"Sala2","path":"rooms/Sala2/Sala2.yy",},},
+    {"roomId":{"name":"RoomGameOver","path":"rooms/RoomGameOver/RoomGameOver.yy",},},
+    {"roomId":{"name":"Ending","path":"rooms/Ending/Ending.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
